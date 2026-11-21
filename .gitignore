@@ -1,0 +1,16 @@
+.venv/
+data/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Nhãn dự đoán trên tập test, sinh lại được bằng notebook 04
+results/predictions/
+
+# Bài báo tham khảo (trích dẫn ở README)
+bai-bao/
+
+# Ghi chép cá nhân, chỉ để trên máy
+CLAUDE.md
+ghi-chu/
+notebooks/02b_phan_phoi_dac_trung.ipynb
